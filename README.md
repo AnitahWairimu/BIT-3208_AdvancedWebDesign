@@ -1,7 +1,7 @@
-# Smart_queueApi
+# Smart_queueApi:BSCCS/2024/52366
 Week 1 upto final Development project
 
-# Advanced Web Development Project
+# Advanced Web Development Project-BIT 3208
 
 ## Project Overview
 This project is developed in stages from Version 1 to Version 10, showing progressive development of a web-based system.
