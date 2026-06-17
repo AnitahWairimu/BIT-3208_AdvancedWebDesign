@@ -84,5 +84,3 @@ The system currently consists of the following entities:
 The database has been normalized to Third Normal Form (3NF) to improve efficiency and maintain data integrity.
 
 
-Developed as part of academic coursework and practical web application development training.
-
