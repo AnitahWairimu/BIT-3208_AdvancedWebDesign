@@ -24,36 +24,6 @@ This project is developed in stages from Version 1 to Version 10, showing progre
 
   # Smart Queue System
 
-## Project Overview
-
-The Smart Queue System is a web-based application designed to streamline queue management in healthcare facilities. The system enables patients to register and monitor queue progress, allows staff members to manage patient queues efficiently, and provides administrators with overall system control. The project aims to reduce waiting time uncertainty, improve service delivery, and enhance the patient experience.
-
----
-
-## Technologies Used
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Backend
-
-* PHP
-
-### Database
-
-* MySQL
-
-### Development Tools
-
-* Visual Studio Code
-* XAMPP
-* phpMyAdmin
-* GitHub
-
----
 
 # Development Progress
 
